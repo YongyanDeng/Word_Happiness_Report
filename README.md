@@ -1,4 +1,4 @@
-# World Happiness Report with School enrollment & Inflation and Costumer Price
+# World Happiness Report with School enrollment & CPI
 
 ## Data Source
 5 row datasets are used in this project:
